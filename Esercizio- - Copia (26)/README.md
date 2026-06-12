@@ -1,0 +1,11 @@
+# esercizio
+
+Hai una lista di priorità lavorative; il capo ti assegna un'emergenza da fare subito: inseriscila come primo elemento dell'array e stampa la lista.
+
+
+## ragionamento
+
+- definisco array priorità
+- stampo
+- inserisco emergenza al inizio del array
+- stampo 
